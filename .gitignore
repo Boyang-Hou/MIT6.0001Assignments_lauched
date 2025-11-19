@@ -9,4 +9,5 @@ __pycache__/
 *.pyc
 
 # 其他
-.DS_Store
+.DS_Store".venv/" 
+".idea/" 
