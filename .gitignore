@@ -1,0 +1,12 @@
+# 虚拟环境 (!!必须忽略!!)
+.venv/
+
+# PyCharm 配置文件 (推荐忽略)
+.idea/
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# 其他
+.DS_Store
